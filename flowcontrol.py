@@ -9,6 +9,7 @@
 #     print(f"Welcome to vote {name}, your age: {age} is valid to vote "
 
 answer = 5
+print("Enter the integers from 1 to 10 only")
 guess = int(input())
 
 if guess == answer:

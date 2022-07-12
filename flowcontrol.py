@@ -6,9 +6,7 @@
 #     print(f"Hi {name}, your age:{age} is not valid to vote")
 #     print("please come back for registering the vote ID in: {0}".format(18-age) )
 # else:
-#     print(f"Welcome to vote {name}, your age: {age} is valid to vote ")
-from mimetypes import guess_all_extensions
-
+#     print(f"Welcome to vote {name}, your age: {age} is valid to vote "
 
 answer = 5
 guess = int(input())
